@@ -1,4 +1,4 @@
 file line
 second line changed
-3rd line
+3rd line 3
 4th line
