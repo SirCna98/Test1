@@ -1,4 +1,4 @@
 file line
 second line
-3rd line
+3rd line updated
 4th line
